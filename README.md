@@ -2,6 +2,8 @@
 
 I'm a computer engineering student. I'm interested in GPUs/hardware accelerators, real-time rendering (especially ray tracing), and performance optimization. My favourite languages are modern C++ and Rust.
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wchang22&show_icons=true)
+
 <!--
 **wchang22/wchang22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
