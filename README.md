@@ -1,6 +1,6 @@
 ### Hi, I'm Wesley
 
-I'm a computer engineering student. I'm interested in GPUs/hardware accelerators, real-time rendering (especially ray tracing), and performance optimization. My favourite languages are modern C++ and Rust.
+Hi! I'm a computer engineering student. My focus is in computer graphics engineering and research, especially in the areas of: real-time rendering, global illumination, and GPUs and graphics architectures.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=wchang22&show_icons=true&count_private=true&theme=vue-dark)
 
