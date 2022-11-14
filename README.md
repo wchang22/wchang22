@@ -1,6 +1,6 @@
 ### Hi, I'm Wesley
 
-Hi! I'm a computer engineering student. My focus is in computer graphics engineering and research, especially in the areas of: real-time rendering, global illumination, and GPUs and graphics architectures.
+Hi! My focus is in computer graphics engineering and research, especially in the areas of: light transport, differentiable and inverse rendering, and real-time rendering.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=wchang22&show_icons=true&count_private=true&theme=vue-dark)
 
